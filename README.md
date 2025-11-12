@@ -5,3 +5,8 @@ ejm0314
 
 ## Favorite Linux Command
 htop — shows live system info
+## EUID
+ejm0314
+
+## Favorite Linux Command
+htop — shows live CPU/memory/processes
